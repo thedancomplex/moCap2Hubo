@@ -4,3 +4,6 @@
 [submodule "recordAces"]
 	path = recordAces
 	url = git@github.com:thedancomplex/recordAces.git
+[submodule "aces2openHubo"]
+	path = aces2openHubo
+	url = git@github.com:thedancomplex/aces2openHubo.git
