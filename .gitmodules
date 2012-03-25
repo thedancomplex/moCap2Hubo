@@ -1,0 +1,6 @@
+[submodule "huboJointConstants"]
+	path = huboJointConstants
+	url = git@github.com:thedancomplex/huboJointConstants.git
+[submodule "recordAces"]
+	path = recordAces
+	url = git@github.com:thedancomplex/recordAces.git
